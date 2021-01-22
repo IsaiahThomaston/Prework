@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/IsaiahThomaston/Prework/blob/main/Screen%20Recording%202021-01-22%20at%209.13.52%20AM.mov' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/IsaiahThomaston/Prework/blob/main/ezgif-7-0e7139e73382.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
